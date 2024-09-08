@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @syed72faizan
-- 👀 I’m interested in ... Gen AI, Web Development, Cloud Computing, Computer Networks
-- 🌱 I’m currently learning ... Python, Docker, Prompt Engineering, Jupyter Notebook, Typescript
+- 👀 I’m interested in -->  Gen AI, Web Development, Cloud Computing, Computer Networks
+- 🌱 I’m currently learning --> Python, Docker, Prompt Engineering, Jupyter Notebook, Typescript
 <!---  - 💞️ I’m looking to collaborate on ...  --->
-- 📫 How to reach me via Email ... [Syed Faizan Ali Shah](mailto:syed.faizan72@outlook.com)
+- 📫 How to reach me via Email -->  [Syed Faizan Ali Shah](mailto:syed.faizan72@outlook.com)
 
 
 ##### Connect with me
